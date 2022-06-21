@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Akuma",
+      "height": "178",
+      "weight": "90",
+      "birthdate": "Unknown",
+      "birthplace": "Japan",
+      "occupation": "Martial Artist",
+      "style": "Satsui no Hado, Ansatsuken"
+    },
+    {
+      "id": 2,
+      "name": "Balrog",
+      "height": "198",
+      "weight": "135",
+      "birthdate": "9-4-1968",
+      "birthplace": "USA",
+      "occupation": "Professional Boxer",
+      "style": "Boxing"
+    },
+    {
+      "id": 3,
+      "name": "Blanka",
+      "height": "192",
+      "weight": "98",
+      "birthdate": "2-12-1966",
+      "birthplace": "Brazil[",
+      "occupation": "Professional Boxer",
+      "style": "Unemployed/Plushies Mascot"
+    },
+    {
+      "id": 4,
+      "name": "Cammy White",
+      "height": "155",
+      "weight": "46",
+      "birthdate": "1-6-1974",
+      "birthplace": "United Kingdom",
+      "occupation": "MI6 Delta Red Operative",
+      "style": "Special Forces Training"
+    },
+    {
+      "id": 5,
+      "name": "Chun-Li",
+      "height": "165",
+      "weight": "Secret",
+      "birthdate": "3-1-1968",
+      "birthplace": "China",
+      "occupation": "Interpol Officer",
+      "style": "Chinese martial arts"
+    },
+    {
+      "id": 6,
+      "name": "Dee Jay",
+      "height": "184",
+      "weight": "92",
+      "birthdate": "10-31-1965",
+      "birthplace": "Jamaica",
+      "occupation": "Musician",
+      "style": "Kickboxing and breakdancing"
+    },
+  ]
+}
