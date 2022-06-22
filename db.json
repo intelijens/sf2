@@ -59,6 +59,116 @@
             "birthplace": "Jamaica",
             "occupation": "Musician",
             "style": "Kickboxing and breakdancing"
+          },
+          {
+            "id": 7,
+            "name": "Dhalsim",
+            "height": "176",
+            "weight": "49.5",
+            "birthdate": "11-22-1952",
+            "birthplace": "India",
+            "occupation": "Yoga Master",
+            "style": "Esoteric Yoga"
+          },
+          {
+            "id": 8,
+            "name": "E. Honda",
+            "height": "185",
+            "weight": "137",
+            "birthdate": "11-3-1960",
+            "birthplace": "Japan",
+            "occupation": "Sumo wrestling",
+            "style": "Sumotori"
+          },
+          {
+            "id": 9,
+            "name": "Fei Long",
+            "height": "172",
+            "weight": "60",
+            "birthdate": "4-23-1969",
+            "birthplace": "Hong Kong",
+            "occupation": "Action Movie Star and Stunt Actor",
+            "style": "Kung Fu"
+          },
+          {
+            "id": 10,
+            "name": "Guile",
+            "height": "182",
+            "weight": "99",
+            "birthdate": "12-23-1960",
+            "birthplace": "USA",
+            "occupation": "Major, US Air Force",
+            "style": "Martial arts and professional wrestling"
+          },
+          {
+            "id": 11,
+            "name": "Ken Masters",
+            "height": "176",
+            "weight": "76",
+            "birthdate": "2-14-1965",
+            "birthplace": "Japan ",
+            "occupation": "Hotel-Business Tycoon",
+            "style": "Karate based martial arts"
+          },
+          {
+            "id": 12,
+            "name": "M. Bison",
+            "height": "182",
+            "weight": "112",
+            "birthdate": "4-17-??",
+            "birthplace": "Shadaloo Base, Thailand",
+            "occupation": "Hotel-Business Tycoon",
+            "style": "Psycho Power"
+          },
+          {
+            "id": 13,
+            "name": "Ryu",
+            "height": "175",
+            "weight": "76",
+            "birthdate": "7-21-1964",
+            "birthplace": "Japan",
+            "occupation": "Martial Artist",
+            "style": "Ansatsuken"
+          },
+          {
+            "id": 14,
+            "name": "Sagat",
+            "height": "213.5",
+            "weight": "109",
+            "birthdate": "7-2-1955",
+            "birthplace": "Thailand",
+            "occupation": "Emperor of Muay Thai",
+            "style": "Muay Thai"
+          },
+          {
+            "id": 15,
+            "name": "T. Hawk",
+            "height": "230",
+            "weight": "162",
+            "birthdate": "7-21-1959",
+            "birthplace": "Mexico",
+            "occupation": "Wood carver",
+            "style": "Thunderfoot martial arts"
+          },
+          {
+            "id": 16,
+            "name": "Vega",
+            "height": "186",
+            "weight": "84",
+            "birthdate": "1-27-1967",
+            "birthplace": "Spain",
+            "occupation": "Ninja Assassin",
+            "style": "Spanish Ninjutsu"
+          },
+          {
+            "id": 17,
+            "name": "Zangief",
+            "height": "211",
+            "weight": "181",
+            "birthdate": "6-1-1956",
+            "birthplace": "USSR",
+            "occupation": "Professional Wrestler",
+            "style": "Russian and American pro wrestling"
           }
     ]
 }
