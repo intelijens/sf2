@@ -1,5 +1,5 @@
 {
-    "characters": [
+    "events": [
         {
             "id": 1,
             "name": "Akuma",
@@ -29,6 +29,36 @@
             "birthplace": "Brazil",
             "occupation": "Professional Boxer",
             "style": "Unemployed/Plushies Mascot"
-        }
+        },
+        {
+            "id": 4,
+            "name": "Cammy White",
+            "height": "155",
+            "weight": "46",
+            "birthdate": "1-6-1974",
+            "birthplace": "United Kingdom",
+            "occupation": "MI6 Delta Red Operative",
+            "style": "Special Forces Training"
+          },
+          {
+            "id": 5,
+            "name": "Chun-Li",
+            "height": "165",
+            "weight": "Secret",
+            "birthdate": "3-1-1968",
+            "birthplace": "China",
+            "occupation": "Interpol Officer",
+            "style": "Chinese martial arts"
+          },
+          {
+            "id": 6,
+            "name": "Dee Jay",
+            "height": "184",
+            "weight": "92",
+            "birthdate": "10-31-1965",
+            "birthplace": "Jamaica",
+            "occupation": "Musician",
+            "style": "Kickboxing and breakdancing"
+          }
     ]
 }
